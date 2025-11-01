@@ -1,4 +1,14 @@
-# Contador — Despliegue manual en Azure (Portal)
+# Contador
+
+Propósito del sistema
+---------------------
+Aplicación web tipo contador que permite incrementar y mostrar un valor. Se utiliza aquí como ejemplo práctico para desplegar en Azure App Service.
+
+Autor
+-----
+Andersson Leandro Ambuludi Gomez (AnderssonLeandro09)
+
+Despliegue manual en Azure (Portal)
 
 Descripción
 -----------
